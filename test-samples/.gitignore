@@ -1,0 +1,11 @@
+*.iml
+.idea/*
+!.idea/codeStyleSettings.xml
+*.pyc
+*~
+*.swp
+venv
+.DS_Store
+.classpath
+.project
+.settings/
